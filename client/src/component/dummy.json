@@ -1,0 +1,40 @@
+{
+    "jobs":[
+        {
+            "id":1,
+            "job_title":"Manager",
+            "job_type":"Full time",
+            "experience":"2 year ",
+            "skills":"Team handling, Good communication"
+        },
+        {
+            "id":2,
+            "job_title":"Bpo",
+            "job_type":"Full time",
+            "experience":"0 year",
+            "skills":"Good communication"
+        },
+        {
+            "id":3,
+            "job_title":"Plant Manager",
+            "job_type":"Full time",
+            "experience":"5+ year",
+            "skills":"Mechanical or Chemical Engineering preferred"
+        },
+        {
+            "id":4,
+            "job_title":"Data Scientist",
+            "job_type":"Full time",
+            "experience":"3 year",
+            "skills":"Python, Analytical skills"
+        },
+        {
+            "id":5,
+            "job_title":"Full Stack developer",
+            "job_type":"Part time",
+            "experience":"nil",
+            "skills":"MERN, MEAN"
+        }
+
+    ]
+}
